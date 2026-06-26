@@ -21,7 +21,7 @@ jobs:
       run: dotnet restore practice2026/practice2026/practice2026.sln  
       
     - name: Build
-      run: dotnet build practice2026.sln --no-restore
+      run: dotnet build practice2026/practice2026/practice2026.sln --no-restore
       
     - name: Test
-      run: dotnet test practice2026.sln --no-build
+      run: dotnet test practice2026/practice2026/practice2026.sln --no-build
