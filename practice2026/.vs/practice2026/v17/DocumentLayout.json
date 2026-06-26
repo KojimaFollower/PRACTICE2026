@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{171FC11F-E0E8-4691-A814-5A7F7B46B6CE}|task01\\task01.csproj|c:\\users\\zver\\desktop\\repo\\practice2026\\practice2026\\task01\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{171FC11F-E0E8-4691-A814-5A7F7B46B6CE}|task01\\task01.csproj|solutionrelative:task01\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2653E11A-BA3C-4EBC-86D4-05B590687D2A}|task01tests\\task01tests.csproj|c:\\users\\zver\\desktop\\repo\\practice2026\\practice2026\\task01tests\\stringextensionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2653E11A-BA3C-4EBC-86D4-05B590687D2A}|task01tests\\task01tests.csproj|solutionrelative:task01tests\\stringextensionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FC11F-E0E8-4691-A814-5A7F7B46B6CE}|task01\\task01.csproj|c:\\users\\zver\\desktop\\repo\\practice2026\\practice2026\\task01\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171FC11F-E0E8-4691-A814-5A7F7B46B6CE}|task01\\task01.csproj|solutionrelative:task01\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StringExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\task01\\StringExtensions.cs",
               "RelativeDocumentMoniker": "task01\\StringExtensions.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\task01\\StringExtensions.cs*",
-              "RelativeToolTip": "task01\\StringExtensions.cs*",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\task01\\StringExtensions.cs",
+              "RelativeToolTip": "task01\\StringExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-26T20:50:10.552Z",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StringExtensionsTests.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\task01tests\\StringExtensionsTests.cs",
               "RelativeDocumentMoniker": "task01tests\\StringExtensionsTests.cs",
