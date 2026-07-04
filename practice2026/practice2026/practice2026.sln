@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37411.7 d17.14
+VisualStudioVersion = 17.14.37411.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task07", "task07\task07.csproj", "{9F37BE81-BDC8-4AEE-9AFC-CEB61A025928}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task07tests", "task07tests\task07tests.csproj", "{C8197471-C8FD-404A-BF73-B42E183D27CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderLibrary", "ReaderLibrary\ReaderLibrary.csproj", "{F9ADC69B-47B7-40D3-B4D0-A9EE30FB777E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C8197471-C8FD-404A-BF73-B42E183D27CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8197471-C8FD-404A-BF73-B42E183D27CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8197471-C8FD-404A-BF73-B42E183D27CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9ADC69B-47B7-40D3-B4D0-A9EE30FB777E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9ADC69B-47B7-40D3-B4D0-A9EE30FB777E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9ADC69B-47B7-40D3-B4D0-A9EE30FB777E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9ADC69B-47B7-40D3-B4D0-A9EE30FB777E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
