@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8197471-C8FD-404A-BF73-B42E183D27CA}|task07tests\\task07tests.csproj|c:\\users\\zver\\desktop\\repo\\practice2026\\practice2026\\task07tests\\attributereflectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8197471-C8FD-404A-BF73-B42E183D27CA}|task07tests\\task07tests.csproj|solutionrelative:task07tests\\attributereflectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F37BE81-BDC8-4AEE-9AFC-CEB61A025928}|task07\\task07.csproj|c:\\users\\zver\\desktop\\repo\\practice2026\\practice2026\\task07\\attributereflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F37BE81-BDC8-4AEE-9AFC-CEB61A025928}|task07\\task07.csproj|solutionrelative:task07\\attributereflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttributeReflectionTests.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\task07tests\\AttributeReflectionTests.cs",
+              "RelativeDocumentMoniker": "task07tests\\AttributeReflectionTests.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\task07tests\\AttributeReflectionTests.cs",
+              "RelativeToolTip": "task07tests\\AttributeReflectionTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T09:06:11.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttributeReflection.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\task07\\AttributeReflection.cs",
+              "RelativeDocumentMoniker": "task07\\AttributeReflection.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\task07\\AttributeReflection.cs*",
+              "RelativeToolTip": "task07\\AttributeReflection.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwEgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T09:05:57.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
