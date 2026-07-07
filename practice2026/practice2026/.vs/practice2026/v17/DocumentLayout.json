@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{120B5A76-3F81-401C-B24A-14A577F9D95D}|PluginSystemTests\\PluginSystemTests.csproj|c:\\users\\zver\\desktop\\repo\\practice2026\\practice2026\\pluginsystemtests\\pluginsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120B5A76-3F81-401C-B24A-14A577F9D95D}|PluginSystemTests\\PluginSystemTests.csproj|solutionrelative:pluginsystemtests\\pluginsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB0469-6947-48CB-97A3-C78A3A4198EA}|PluginSystem\\PluginSystem.csproj|c:\\users\\zver\\desktop\\repo\\practice2026\\practice2026\\pluginsystem\\pluginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB0469-6947-48CB-97A3-C78A3A4198EA}|PluginSystem\\PluginSystem.csproj|solutionrelative:pluginsystem\\pluginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9DE9DC-022D-413F-B7E2-3D4FABF1EE98}|Plugins\\Plugins.csproj|c:\\users\\zver\\desktop\\repo\\practice2026\\practice2026\\plugins\\plugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9DE9DC-022D-413F-B7E2-3D4FABF1EE98}|Plugins\\Plugins.csproj|solutionrelative:plugins\\plugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A626005-2271-4F7A-B1D4-8659377F9A5D}|CommandLib\\CommandLib.csproj|c:\\users\\zver\\desktop\\repo\\practice2026\\practice2026\\commandlib\\commandlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A626005-2271-4F7A-B1D4-8659377F9A5D}|CommandLib\\CommandLib.csproj|solutionrelative:commandlib\\commandlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PluginSystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\PluginSystemTests\\PluginSystemTests.cs",
+              "RelativeDocumentMoniker": "PluginSystemTests\\PluginSystemTests.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\PluginSystemTests\\PluginSystemTests.cs",
+              "RelativeToolTip": "PluginSystemTests\\PluginSystemTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wCgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T11:48:12.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PluginSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\PluginSystem\\PluginSystem.cs",
+              "RelativeDocumentMoniker": "PluginSystem\\PluginSystem.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\PluginSystem\\PluginSystem.cs",
+              "RelativeToolTip": "PluginSystem\\PluginSystem.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T11:17:19.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plugins.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\Plugins\\Plugins.cs",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\Plugins\\Plugins.cs",
+              "RelativeToolTip": "Plugins\\Plugins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T11:10:48.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandLib.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\CommandLib\\CommandLib.cs",
+              "RelativeDocumentMoniker": "CommandLib\\CommandLib.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\REPO\\practice2026\\practice2026\\CommandLib\\CommandLib.cs",
+              "RelativeToolTip": "CommandLib\\CommandLib.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T11:05:01.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

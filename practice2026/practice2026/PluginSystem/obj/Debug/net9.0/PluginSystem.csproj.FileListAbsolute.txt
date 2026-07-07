@@ -1,0 +1,16 @@
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\bin\Debug\net9.0\PluginSystem.deps.json
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\bin\Debug\net9.0\PluginSystem.dll
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\bin\Debug\net9.0\PluginSystem.pdb
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\bin\Debug\net9.0\CommandLib.dll
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\bin\Debug\net9.0\CommandLib.pdb
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\PluginSystem.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\PluginSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\PluginSystem.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\PluginSystem.AssemblyInfo.cs
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\PluginSystem.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\PluginSystem.sourcelink.json
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\PluginSy.734F2CC5.Up2Date
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\PluginSystem.dll
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\refint\PluginSystem.dll
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\PluginSystem.pdb
+C:\Users\Zver\Desktop\REPO\practice2026\practice2026\PluginSystem\obj\Debug\net9.0\ref\PluginSystem.dll
